@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Messaoudichahrazadamira">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Messaoudichahrazadamira&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Messaoudichahrazadamira's GitHub Stats" />
+    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Messaoudichahrazadamira&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Messaoudichahrazadamira's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Messaoudichahrazadamira&theme=radical&hide_border=true&cache_seconds=86400" alt="Messaoudichahrazadamira's GitHub Streak" width="49%" />
 </p>
