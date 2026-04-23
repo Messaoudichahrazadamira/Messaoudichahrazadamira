@@ -12,7 +12,7 @@
   <a href="https://github.com/Messaoudichahrazadamira">
     <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Messaoudichahrazadamira&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Messaoudichahrazadamira's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Messaoudichahrazadamira&theme=radical&hide_border=true&cache_seconds=86400" alt="Messaoudichahrazadamira's GitHub Streak" width="40%" />
+  <img src="https://streak-stats.demolab .com/?user=Messaoudichahrazadamira&theme=radical&hide_border=true&cache_seconds=86400" alt="Messaoudichahrazadamira's GitHub Streak" width="40%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Messaoudichahrazadamira&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="chahrarazad amira messaoudi's GitHub Trophies" />
@@ -23,6 +23,15 @@
 
 
 ## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Messaoudichahrazadamira">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Messaoudichahrazadamira&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css,git,github,docker,mysql,mongodb,linux,vscode,figma&perline=8" />
+</p>
 <p align="center">
   <a href="https://github.com/Messaoudichahrazadamira">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Messaoudichahrazadamira&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
